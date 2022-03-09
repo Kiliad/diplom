@@ -1,0 +1,205 @@
+﻿<style type="text/css">
+
+1{}
+
+
+  p.dline {line-height: 1.5;}
+  p {line-height: 1.5em;font-size: 25px;text-indent: 20px; text-align: justify;}
+  p2{line-height: 0.9em;font-size: 25px;text-indent: 20px; color: black}
+  h1 {font-size: 35px; text-align: center;}
+  h1 {text-align: center;}
+  h2 {font-size: 25px;text-align: center;}
+  h3 {font-size: 25px;text-align: center;}
+  h5 {text-align: right; font-size: 35px;}
+  h6 {text-align: left; font-size: 25px; line-height: 1%;}
+  li {font-size: 25px;}
+  ul.b {list-style-type: square;}
+    body {background-image: url(Multimedia/fontest.jpeg)}
+    html, body{width:100%; height:100%; margin:0}
+
+  @media  (max-width: 1200px) {
+  img {
+    height: 70%;
+    width: 70%;
+  }
+  .button{
+      height: auto;
+    width: auto;
+  }
+  .pic3{
+      height: 50%;
+    width: 50%;
+    margin-left: 20%;
+  }
+  .div{
+    max-width: 90%;
+    min-width: 90%;
+
+  }
+/*body{
+    background-image: url((Multimedia/Fon.jpg);
+    background-size: cover;
+  background-attachment: initial;
+    }*/
+}
+    /*header {background-image: url(Multimedia/567.jpg); height: 400px;
+    margin-right: -10px;
+    margin-left: -10px;
+    margin-top: -29px;
+    padding: 25px;
+border:solid;
+  }
+.test {    text-shadow: 1px 1px 2px black, 0 0 1em red;
+    color: white;
+    !--padding-top: 70px;}
+    a {
+    color: #008;
+    background: #ffc;
+    padding: 2px;
+    transition: 250ms linear;
+   }*/
+   .button:hover {
+    color: #fff;
+    background: #1919D2;
+    border-radius: 100px;
+    transition: 670ms linear;
+   }
+a.button:active { background: #FFFFFF; color: #000000; transition: 100ms linear; border-radius: 0 20px;}
+.buttonsod:hover {
+    color: #fff;
+    background: #1919D2;
+    border-radius: 100px;
+    transition: 670ms linear;
+   }
+a.buttonsod:active { background: #FFFFFF; color: #000000; transition: 100ms linear; border-radius: 0 20px;}
+  .div {
+    background: rgba(255,255,255,1);
+    background-clip: padding-box;
+    border: 25px;  border-radius: 25px;
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+    }
+    .div2 {
+    background: rgba(255,255,255,0.1);
+    background-clip: padding-box;
+    border: 25px;  border-radius: 25px;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    }
+  html{scroll-behavior: smooth;}
+  .shadowtext {
+    text-shadow: 1px 1px 2px black, 0 0 1em silver;
+    color: white;
+   }
+      .brd {
+        border-radius: 10px;
+    border: 4px double black;
+    background: #fc3;
+    padding: 10px;
+    margin-right: 10%;
+   }
+   .Цвет {
+      color: rgb(70, 130, 180);
+      }
+
+   TABLE {
+    background: white;
+    color: black;
+   }
+   TD, TH {
+
+    background: rgb(220, 220, 220);
+    padding: 5px;
+   }
+   .men{border: double; width: 10%; position: relative;
+    left: 45%; border-color: white; background-color: grey;}
+    .men:hover{background-color: silver;}
+   .pages {
+                text-decoration:underline;
+                color:black;
+                cursor:pointer;
+    border:2px solid;
+    background: white;
+    padding:3px;
+    font-size: 90%;
+        }
+.smpage {
+    background: #00bfff;
+    color: black;
+}
+
+ .button {
+
+      position: relative;
+      left: 3%;
+      transform: translate(-0%, 0);
+      text-shadow: 1px 1px 2px black, 0 0 1em azure;
+      background-color: black;
+      border: double;
+      border-color: red;
+      color: white ;
+      padding: 1% 2%;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 120%;
+      margin: 1% 2px;
+      cursor: pointer;
+      }
+
+
+
+.buttonsod {
+      text-shadow: 1px 1px 2px black, 0 0 1em azure;
+      background-color: dimgrey;
+      border: double;
+      border-color: white;
+      color: white ;
+      padding: 1% 2%;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 120%;
+      margin: 1% 2px;
+      cursor: pointer;
+      width: 50%;
+      }
+
+    li.sod {
+    list-style-type: none;
+    text-align: center;
+    font-size: 100%;
+   }
+    nav li {
+    list-style-type: none;
+   }
+    nav ul {font-size: 80%;}
+    nav li{font-size: 120%;}
+    nav ul {display: none;}
+    nav li:hover > ul  {display: block;}
+      .pic3 {text-align: center;}
+      .pic2 {text-align: center;}
+      .pic { text-align: center;}
+
+   }
+      .gif {text-align:center;}
+  2{}
+
+     .scrollup{
+      width:40px;
+      height:40px;
+      opacity:1;
+      position:fixed;
+      bottom:50px;
+      right:110px;
+      display:none;
+      text-indent:-9999px;
+      background: url('Multimedia/icon_top2.png') no-repeat;
+                          }
+
+ </style>
