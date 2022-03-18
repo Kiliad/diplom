@@ -29,6 +29,7 @@
   .buttonsod{
     width: 90%;
     height: 60px;
+    vertical-align: middle;
 }
   .p {
 font-size: 35px;
